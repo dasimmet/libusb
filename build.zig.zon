@@ -1,6 +1,6 @@
 .{
     .name = .libusb,
-    .version = "0.0.1",
+    .version = "1.0.26",
     .dependencies = .{
         .libusb_c = .{
             .path = "zig-pkg/libusb",
